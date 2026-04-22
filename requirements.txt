@@ -1,0 +1,4 @@
+spacy
+spacy-transformers
+pandas
+matplotlib
